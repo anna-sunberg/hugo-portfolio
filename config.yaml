@@ -100,7 +100,7 @@ params:
     title: "Anna."
     subtitle: "I build things for the web"
     content: "A passionate backend and database engineer. I like building simple solutions and scalable architecture."
-    image: femalecodertocat.png
+    image: /images/femalecodertocat.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
